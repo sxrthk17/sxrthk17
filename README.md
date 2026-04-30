@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <p>I am Sarthak Mule - an AI Engineering Student .</p>
 <p>I am currently exploring Data Analysis and building Data Pipelines: helpful for training models 🤖</p>
-<p>Learning Mathematics for machine Learning with hands on Application</p>
+<p>Learning Mathematics for Machine Learning with hands on Application</p>
 <p>Going to start building ML models and local LLM Model Integration</p>
