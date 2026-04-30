@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **sxrthk17/sxrthk17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
