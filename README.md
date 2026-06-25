@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Sarthak%20Mule&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AIML%20Student%20%7C%20Data%20Science%20%7C%20ML%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Sarthak%20Mule&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AIML%20Student%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 </div>
 
