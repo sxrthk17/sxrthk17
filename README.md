@@ -14,9 +14,9 @@
 </div>
 
 ```
-3rd Year AIML Student  ·  Pune, India
-Currently building: deep ML foundations — the right way
-Daily driver: Python · Math · GitHub commits
+3rd Year AIML Student  ·  Chhatrapati Sambhajinagar, Maharashtra, India
+Currently building: deep ML foundations
+Daily driver: Python · Math · Curiosity
 ```
 
 ---
@@ -110,15 +110,15 @@ current_mission = {
 
 <div align="center">
 
-### ◈ Connect
+### ◈ Connect with ME
 
 </div>
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sxrthk17-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sxrthk17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SarthakMule-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sarthakmule)
-[![Email](https://img.shields.io/badge/Email-reach%20out-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SarthakMule-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/sarthakmule](https://www.linkedin.com/in/sarthak-mule-1vl7-ai/))
+[![Email](https://img.shields.io/badge/Email-reach%20out-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mulesarthak17@email.com)
 
 </div>
 
