@@ -1,23 +1,27 @@
 <div align="center">
 
-<!-- DYNAMIC WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:2b0054,100:1a1b26&height=200&section=header&text=SARTHAK%20//%20APPLIED%20AI/ML&fontSize=32&fontColor=ffb7c5&animation=twinkling" width="100%" />
+<!-- TOP BANNER: Cyber-Anime Sci-Fi Header -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0b16,50:2b0054,100:1a1b26&height=200&section=header&text=SARTHAK%20//%20APPLIED%20AI-ML&fontSize=30&fontColor=ffb7c5&animation=fadeIn&desc=FIRST-PRINCIPLES%20ENGINEERING&descSize=13&descAlign=50&descAlignY=70" width="100%" />
 
 <br/>
-
-<!-- DYNAMIC TYPING LOG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=PILOT:+Sarthak+%2F%2F+Applied+AI-ML+Engineer;STATUS:+Training+Models+from+First+Principles;MISSION:+Healthcare+%26+Cybersecurity+AI;SIDE-QUEST:+Mastering+Japanese+Kanji+%26+Code-Jutsu" />
-</p>
-
-<br/>
-
-### こんにちは、みんなさん！サールタクと申します。どうぞよろしくお願いします！
-*(Konnichiwa, minna-san! Sarthak to mōshimasu. Dōzo yoroshiku onegaishimasu!)*
-
-> *"Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side."*
 
 </div>
+
+---
+
+<!-- SIDE-BY-SIDE INTRO (Inspired by your reference screenshots: Text + Dynamic Visual Element) -->
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>こんにちは、みんなさん！サールタクと申します。どうぞよろしくお願いします！</h3>
+      <p><i>(Konnichiwa, minna-san! Sarthak to mōshimasu. Dōzo yoroshiku onegaishimasu!)</i></p>
+      <p><b>"Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side."</b></p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHdyM3U5bGN4OWxsb3FkYXByOTZwdmNudThsc2thbnh3OHptOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="90%" style="border-radius:10px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,11 +60,17 @@
 
 ---
 
-### 📈 Activity Pulse
+### 📈 GitHub Analytics & Metrics
 
 <div align="center">
 
-<!-- DYNAMIC WAVE ACTIVITY GRAPH -->
+<!-- TOKYO-NIGHT STREAK & STATS CARDS (From your reference screenshots) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sxrthk17&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sxrthk17&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH LINE CHART -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxrthk17&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="100%" />
 
 <br/><br/>
