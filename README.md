@@ -49,12 +49,12 @@
 
 ---
 
-### 🌐 System Core & Activity
+### 🌐 Contribution Matrix
 
 <div align="center">
 
-<!-- Sleek Cyber/Sci-Fi Visual Element (Clean, minimalist loop that matches your dark aesthetic) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a470-11eb-92d3-0390a0820910.gif" width="70%" style="border-radius: 8px;" />
+<!-- 3D CONTRIBUTION GREEN ISOMETRIC GRAPH -->
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 
 <br/><br/>
 
