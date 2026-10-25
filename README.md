@@ -72,7 +72,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="25%" align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" width="45px" alt="Umbreon" />
+      <span style="font-size: 28px;">🌸</span>
     </td>
     <td width="50%" align="center" valign="middle">
       ⚡ <b>SYSTEM STATUS: ALL SYSTEMS NOMINAL</b> ⚡
@@ -80,7 +80,7 @@
       <i>"Building from math, executing with intent, and optimizing every pipeline one at a time."</i>
     </td>
     <td width="25%" align="left" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="45px" alt="Gengar" />
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="45px" alt="Pikachu" />
     </td>
   </tr>
 </table>
