@@ -25,7 +25,7 @@
       <p><b>Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side.</b></p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxrthk17&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=sxrthk17&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
