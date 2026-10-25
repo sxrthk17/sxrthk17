@@ -5,23 +5,12 @@
 
 <br/>
 
+### こんにちは、みんなさん！サールタクと申します。どうぞよろしくお願いします！
+*(Konnichiwa, minna-san! Sarthak to mōshimasu. Dōzo yoroshiku onegaishimasu!)*
+
+> *"Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side."*
+
 </div>
-
----
-
-<!-- SIDE-BY-SIDE INTRO (Inspired by your reference screenshots: Text + Dynamic Visual Element) -->
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>こんにちは、みんなさん！サールタクと申します。どうぞよろしくお願いします！</h3>
-      <p><i>(Konnichiwa, minna-san! Sarthak to mōshimasu. Dōzo yoroshiku onegaishimasu!)</i></p>
-      <p><b>"Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side."</b></p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHdyM3U5bGN4OWxsb3FkYXByOTZwdmNudThsc2thbnh3OHptOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="90%" style="border-radius:10px;"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -60,18 +49,12 @@
 
 ---
 
-### 📈 GitHub Analytics & Metrics
+### 🌐 Contribution Matrix
 
 <div align="center">
 
-<!-- TOKYO-NIGHT STREAK & STATS CARDS (From your reference screenshots) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sxrthk17&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=sxrthk17&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH LINE CHART -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxrthk17&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="100%" />
+<!-- 3D CONTRIBUTION GREEN ISOMETRIC GRAPH -->
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
 
 <br/><br/>
 
