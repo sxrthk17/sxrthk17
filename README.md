@@ -22,7 +22,7 @@
     <td width="55%" valign="top">
       <h3>こんにちは、みんなさん！サールタクと申します。どうぞよろしくお願いします！</h3>
       <p><i>(Konnichiwa, minna-san! Sarthak to mōshimasu. Dōzo yoroshiku onegaishimasu!)</i></p>
-      <p><b>Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side.</b></p>
+      <p><b>Hey there, World! I'm Sarthak - an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side.</b></p>
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="https://streak-stats.demolab.com/?user=sxrthk17&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
