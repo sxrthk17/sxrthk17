@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- TOP BANNER: Stable Cyber-Anime Sci-Fi Header -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0b16,50:2b0054,100:1a1b26&height=200&section=header&text=SARTHAK%20//%20APPLIED%20AI-ML&fontSize=30&fontColor=ffb7c5&animation=fadeIn&desc=FIRST-PRINCIPLES%20ENGINEERING&descSize=13&descAlign=50&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0b16,50:2b0054,100:1a1b26&height=180&section=header&text=SARTHAK%20%7C%7C%20AI-ML%20ENGINEER&fontSize=26&fontColor=ffb7c5&animation=fadeIn&desc=FIRST-PRINCIPLES%20ENGINEERING&descSize=12&descAlign=50&descAlignY=70" width="100%" />
 
 <br/>
 
@@ -9,17 +8,16 @@
 
 ---
 
-<!-- SIDE-BY-SIDE INTRO: Greeting + Stable Pixel Pokémon Companion -->
+<!-- SIDE-BY-SIDE INTRO -->
 <table border="0" width="100%">
   <tr>
-    <td width="70%" valign="top">
+    <td width="55%" valign="top">
       <h3>こんにちは、みんなさん！サールタクと申します。どうぞよろしくお願いします！</h3>
       <p><i>(Konnichiwa, minna-san! Sarthak to mōshimasu. Dōzo yoroshiku onegaishimasu!)</i></p>
-      <p><b>"Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side."</b></p>
+      <p><b>"Hello, World. I am Sarthak—an Applied AI/ML Engineer focused on building intelligent systems from first principles, writing clean backend architectures, and studying Japanese."</b></p>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- Stable Pixel Pokémon Sprite (Gengar - fits the dark cyber-anime theme perfectly) -->
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="120px" alt="Gengar Sprite" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxrthk17&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -28,20 +26,20 @@
 
 ### 🧠 Mindset & Engineering Approach
 
-* **Math First & First Principles:** I rely on deep mathematical intuition over black-box library calls. I learn by building, implementing, and breaking algorithms from scratch to understand their true underlying mechanics.
-* **Build-to-Learn Execution:** I don't wait to "finish a course" before coding. I learn techniques (like linear regression or optimization decay) and immediately apply them directly into active project pipelines.
-* **Target Domains:** Long-term, I am building toward applying machine learning and deep learning computer vision in Healthcare and Cybersecurity.
+* **First-Principles Foundation:** Prioritizing mathematical intuition and raw algorithm implementation over high-level black-box abstractions.
+* **Build-to-Learn Execution:** Translating theoretical concepts immediately into active engineering pipelines and functional code.
+* **Target Domains:** Applied Machine Learning, Computer Vision, and Deep Learning architectures for Healthcare and Cybersecurity systems.
 
 ---
 
 ### 🚧 ACTIVE LABS & CURRENT BUILDS
 
-> *No fake finished products here—just real engineering currently in progress:*
+> *Active development environments and technical workflows:*
 
-* 🏏 **Cricket Intelligence Lab:** Implementing EDA, statistical distribution analysis, and custom feature engineering pipelines on ball-by-ball delivery datasets. *(In Active Development)*
-* 🚲 **Bike Sharing Demand Prediction:** Learning and implementing ML Regression from scratch, optimizing gradient updates, and refining feature transformations directly on real-world data. *(In Active Development)*
-* ⚙️ **Backend & Deployment Systems:** Currently building containerized workflows and microservices using `FastAPI`, `Docker`, `SQLite`, and `MySQL`.
-* 📊 **Data Exploration Refinery:** Polishing 4–5 core Exploratory Data Analysis projects to uncover hidden statistical patterns, anomalies, and data paradoxes.
+* 🏏 **Cricket Intelligence Lab:** Exploratory data analysis, statistical distribution modeling, and custom feature engineering pipelines using ball-by-ball delivery datasets.
+* 🚲 **Bike Sharing Demand Prediction:** Building regression models from scratch, implementing optimized gradient updates, and structuring robust data transformation scripts.
+* ⚙️ **Backend Infrastructure:** Developing containerized microservices and API workflows utilizing FastAPI, Docker, SQLite, and MySQL.
+* 📊 **Data Exploration Refinery:** Structuring analytical pipelines to isolate anomalies, statistical patterns, and insights from raw datasets.
 
 ---
 
@@ -56,16 +54,15 @@
 </div>
 
 * **Languages:** Python, C++, SQL
-* **ML & Mathematics:** NumPy, Pandas, Scikit-Learn, Linear Algebra, Optimization (SGD)
-* **Backend & Tools:** FastAPI, Docker, MySQL, SQLite, Git / GitHub, Linux
+* **Core Stack & Math:** NumPy, Pandas, Scikit-Learn, Linear Algebra, Gradient Optimization
+* **Backend & Systems:** FastAPI, Docker, MySQL, SQLite, Git, Linux
 
 ---
 
 <div align="center">
 
-<!-- SYSTEM SIGN-OFF -->
-⚡ **SYSTEM INIT: 「サールタク」 // AI/ML ENGINEER ACTIVE** ⚡
+⚡ **SYSTEM STATUS: ALL SYSTEMS NOMINAL** ⚡
 <br/>
-*"Building from math, learning by doing, and optimizing one pipeline at a time."*
+*"Building from math, executing with intent, and optimizing every pipeline."*
 
 </div>
