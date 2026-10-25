@@ -1,18 +1,22 @@
 <div align="center">
 
-<!-- TOP DYNAMIC BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=SARTHAK%20//%20SECTOR%20AIML&fontSize=32&fontColor=ffb7c5&animation=twinkling" width="100%" />
+<!-- LINE 1: DYNAMIC BANNER (Cyber-Anime / Space Bridge Header) -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0b16,50:2b0054,100:1a1b26&height=220&section=header&text=VESSEL:%20NEXUS-01%20//%20PILOT%20SARTHAK&fontSize=30&fontColor=a855f7&animation=twinkling&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20FROM%20FIRST%20PRINCIPLES&descSize=13&descAlign=50&descAlignY=70" width="100%" />
 
 <br/>
 
+<!-- LINE 3: DYNAMIC TYPING TERMINAL SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=PILOT:+Sarthak+%2F%2F+Applied+AI-ML+Engineer;STATUS:+Training+Models+from+First+Principles;MISSION:+Healthcare+%26+Cybersecurity+AI;SIDE-QUEST:+Mastering+Japanese+Kanji+%26+Code-Jutsu" />
+</p>
+
+<br/>
+
+<!-- LINE 7: JAPANESE GREETING & QUOTE -->
 ### こんにちは、みんなさん！サールタクと申します。どうぞよろしくお願いします！
 *(Konnichiwa, minna-san! Sarthak to mōshimasu. Dōzo yoroshiku onegaishimasu!)*
 
 > *"Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side."*
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a470-11eb-92d3-0390a0820910.gif" width="100%" />
 
 </div>
 
@@ -41,6 +45,7 @@
 
 <div align="center">
 
+<!-- LINE 38: DYNAMIC SKILL ICONS BADGE BAR -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,docker,git,github,vscode,linux&theme=dark" />
 </p>
@@ -55,12 +60,9 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a470-11eb-92d3-0390a0820910.gif" width="100%" />
-
-<br/>
-
-⚡ **SYSTEM INIT: 「サールタク」 // AI/ML ENGINEER ACTIVE** ⚡
-<br/>
-*"Building from math, learning by doing, and optimizing one pipeline at a time."*
-
-</div>
+<!-- LINE 45: DYNAMIC CYBER-ANIME ASCII TERMINAL BOX -->
+```text
+ ╔═══════════════════════════════════════════════════════════╗
+ ║  [SYSTEM_BOOT]: PILOT Sarthak // AI & ML Core Active      ║
+ ║  [STATUS]: Building from math. Optimizing every pipeline. ║
+ ╚═══════════════════════════════════════════════════════════╝
