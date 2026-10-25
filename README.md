@@ -69,20 +69,10 @@
 
 <div align="center">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="25%" align="right" valign="middle">
-      <span style="font-size: 28px;">🌸</span>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      ⚡ <b>SYSTEM STATUS: ALL SYSTEMS NOMINAL</b> ⚡
-      <br/>
-      <i>"Building from math, executing with intent, and optimizing every pipeline one at a time."</i>
-    </td>
-    <td width="25%" align="left" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="45px" alt="Pikachu" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+⚡ <b>SYSTEM STATUS: ALL SYSTEMS NOMINAL</b> ⚡
+<br/>
+<i>"Building from math, executing with intent, and optimizing every pipeline one at a time."</i>
 
 </div>
