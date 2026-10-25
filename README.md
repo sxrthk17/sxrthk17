@@ -1,10 +1,18 @@
 <div align="center">
 
-<!-- TOP BOOKEND: Japanese Greeting -->
+<!-- TOP DYNAMIC BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=SARTHAK%20//%20SECTOR%20AIML&fontSize=32&fontColor=ffb7c5&animation=twinkling" width="100%" />
+
+<br/>
+
 ### こんにちは、みんなさん！サールタクと申します。どうぞよろしくお願いします！
 *(Konnichiwa, minna-san! Sarthak to mōshimasu. Dōzo yoroshiku onegaishimasu!)*
 
 > *"Hey there, World! I'm Sarthak—an Applied AI/ML Engineer who builds intelligent systems from first principles, crafts code with an engineering mindset, and learns Japanese on the side."*
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a470-11eb-92d3-0390a0820910.gif" width="100%" />
 
 </div>
 
@@ -31,18 +39,28 @@
 
 ### 🛡️ Current Arsenal
 
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,docker,git,github,vscode,linux&theme=dark" />
+</p>
+
 * **Languages:** Python, C++, SQL
 * **ML & Mathematics:** NumPy, Pandas, Scikit-Learn, Linear Algebra, Optimization (SGD)
 * **Backend & Tools:** FastAPI, Docker, MySQL, SQLite, Git / GitHub, Linux
+
+</div>
 
 ---
 
 <div align="center">
 
-<!-- BOTTOM BOOKEND: Cyber-Anime Sign-Off -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a470-11eb-92d3-0390a0820910.gif" width="100%" />
+
+<br/>
+
 ⚡ **SYSTEM INIT: 「サールタク」 // AI/ML ENGINEER ACTIVE** ⚡
-<br>
+<br/>
 *"Building from math, learning by doing, and optimizing one pipeline at a time."*
 
 </div>
-
