@@ -63,7 +63,7 @@
 
 - **Languages:** Python, C++, SQL, C, Java
 - **Core Stack & Math:** NumPy, Pandas, Scikit-Learn, Jupyter, Linear Algebra, Statistics, Gradients-Calculus
-- **Backend & Systems:** FastAPI, Docker, MySQL, SQLite, Git, Linux
+- **Backend & Systems:** FastAPI, Docker, MySQL, SQLite, Git, Linux, Jinja
 
 ---
 
