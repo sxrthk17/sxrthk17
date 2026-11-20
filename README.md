@@ -72,6 +72,7 @@
 <div align="center">
 
 ⚡ <b>SYSTEM STATUS: ALL SYSTEMS NOMINAL</b> ⚡
+<b> SYSTEM FOCUSED ON PREPARING FOR EXAMS<b>
 <br/>
 <i>"Building from math, executing with intent, and optimizing every pipeline one at a time."</i>
 
