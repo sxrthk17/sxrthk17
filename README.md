@@ -48,7 +48,7 @@
 - 🚲 **Bike Sharing Demand Prediction:** Learning and implementing ML Regression from scratch, optimizing gradient updates, and refining feature transformations directly on real-world data. *(In Active Development)*
 - ⚙️ **Backend Infrastructure:** Currently building containerized workflows and microservices using `FastAPI`, `Docker`, `SQLite`, and `MySQL`.
 - 📊 **Data Exploration Refinery:** Polishing 4–5 core Exploratory Data Analysis projects to uncover hidden statistical patterns, anomalies, and data paradoxes. Feature Engineering and end-to-end Analysis Pipelines.
-- ML oriented problem solving on TrenTorch and DSA on LeetCode.
+- **Problem Solving and Maths**ML oriented problem solving on TrenTorch and DSA on LeetCode.
 
 ---
 
